@@ -1,4 +1,9 @@
 
+![Screenshot (11)](https://github.com/user-attachments/assets/73fb3791-210b-43fb-8ac5-43146e35a7ba)
+
+
+
+
 # 🎮 Game Code - NPA (Number Puzzle Amjadi)  
 **سازنده:** علیرضا امجدی | **Developer:** Alireza Amjadi  
 
