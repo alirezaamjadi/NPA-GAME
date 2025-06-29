@@ -1,3 +1,6 @@
+![your_image](https://github.com/user-attachments/assets/1b5f01e1-cfa2-4624-8d60-78bf95a72c9d)
+
+
 # 🎮 **فایل بازی**  
 🔐 **رمز فایل:** `NA-1`  
 
